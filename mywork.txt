@@ -1,0 +1,19 @@
+My associate id:
+844530
+Other team members:
+844529,844619,844553,844552,844529
+Team lead:
+844529
+My Role in team:
+1. To develop home page and view appointment components
+2.. To develop app component.	
+I was strong in:
+1. Template Driven Forms
+2. HttpClient
+3. Validation
+4.routerlinks
+5.embedding components
+I was weak in:
+1. Reactive Forms
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
